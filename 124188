@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | ROSSETTE COMPUTER SOLUTIONS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>ATUKWATSE ROSSETTE</h1><p>ROSSETTE COMPUTER SOLUTIONS</p></header>
+  <nav>
+    <a href="index.htm">Home</a><a href="products.html">Products</a>
+    <a href="services.html">Services</a><a href="about.html">About</a><a href="contact.html">Contact</a>
+  </nav>
+  <main>
+    <h2>Contact Us</h2>
+    <p>Have a question about a product or service? Send us a message below.</p>
+    <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="Name" placeholder="Enter your name" required>
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="Email" placeholder="Enter your email" required>
+      <label for="subject">Subject</label>
+      <input type="text" id="subject" name="Subject" placeholder="What do you need help with?">
+      <label for="message">Message</label>
+      <textarea id="message" name="Message" rows="6" placeholder="Write your message here..." required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+    <p class="note">To receive messages, replace <strong>your-email@example.com</strong> in this file with your email address. The mailto form opens the visitor's email application.</p>
+  </main>
+  <footer><p>BAIT/26D/U/A0088</p></footer>
+</body>
+</html>

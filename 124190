@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Products | ROSSETTE COMPUTER SOLUTIONS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>ATUKWATSE ROSSETTE</h1><p>ROSSETTE COMPUTER SOLUTIONS</p></header>
+  <nav>
+    <a href="index.htm">Home</a><a href="products.html">Products</a>
+    <a href="services.html">Services</a><a href="about.html">About</a><a href="contact.html">Contact</a>
+  </nav>
+  <main>
+    <h2>Our Products</h2>
+    <p>We provide useful computer equipment and accessories.</p>
+    <div class="cards">
+      <article class="card"><h3>Laptops</h3><p>Laptops for school, office and personal use.</p></article>
+      <article class="card"><h3>Desktop Computers</h3><p>Desktop computers and complete computer sets.</p></article>
+      <article class="card"><h3>Accessories</h3><p>Keyboards, mice, flash drives, cables and headsets.</p></article>
+      <article class="card"><h3>Computer Parts</h3><p>Storage drives, RAM, screens and other replacement parts.</p></article>
+      <article class="card"><h3>Printers</h3><p>Printers and related supplies for home and office.</p></article>
+      <article class="card"><h3>Networking Equipment</h3><p>Routers, network cables and connectivity accessories.</p></article>
+    </div>
+  </main>
+  <footer><p>BAIT/26D/U/A0088</p></footer>
+</body>
+</html>
